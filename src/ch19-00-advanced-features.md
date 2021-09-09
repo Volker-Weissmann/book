@@ -18,5 +18,6 @@ In this chapter, we’ll cover:
   and dynamically sized types
 * Advanced functions and closures: function pointers and returning closures
 * Macros: ways to define code that defines more code at compile time
+* Custom compiler error messages: how to set the error message that people will see if they misuse your library
 
 It’s a panoply of Rust features with something for everyone! Let’s dive in!

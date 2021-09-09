@@ -119,6 +119,7 @@
     - [Advanced Types](ch19-04-advanced-types.md)
     - [Advanced Functions and Closures](ch19-05-advanced-functions-and-closures.md)
     - [Macros](ch19-06-macros.md)
+    - [Custom Compiler Error Messages](ch19-07-custom-compiler-error-messages.md)
 
 - [Final Project: Building a Multithreaded Web Server](ch20-00-final-project-a-web-server.md)
     - [Building a Single-Threaded Web Server](ch20-01-single-threaded.md)
